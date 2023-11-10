@@ -1,13 +1,49 @@
-# Rhodes College Chatbot
 
-## Description
+- # RHO-BOT: Rhodes College Personalized Chatbot
 
-This chatbot is designed to provide instant support for students, faculty, and visitors of Rhodes College. It can answer frequently asked questions, provide information about campus events, assist with admissions queries, and offer guidance on academic programs.
+## Introduction
+`RHO-BOT` is an under-development chatbot aimed at enriching the Rhodes College community's experience through seamless and personalized digital interactions. This AI-driven assistant will cater to a wide array of informational needs, providing support and guidance specific to Rhodes College.
 
-## Features
+## Project Status
+**Current Phase:** Planning and Design
+- [ ] Research and requirements gathering
+- [ ] System design
+- [ ] Implementation
+- [ ] Testing
+- [ ] Deployment
+- [ ] Maintenance
 
-- Answer FAQs about Rhodes College
-- Provide updates on college events and news
-- Guide prospective students through the admissions process
-- Offer information on academic programs and courses
+## Upcoming Features
+- **Personalized Responses**: Tailored assistance based on user roles and queries.
+- **Campus Navigation**: Directions and details for various campus locations.
+- **Academic Support**: Information on schedules, deadlines, and academic resources.
+- **Event Notifications**: Real-time updates on college events and activities.
+
+## How to Contribute
+As the project is in its nascent stages, we're currently in the process of defining its scope and architecture. We invite suggestions, ideas, and discussions around the following:
+- Feature recommendations
+- Design and user experience
+- Technologies and tools to be used
+
+To contribute to these discussions:
+1. Open an issue to start a conversation around your idea.
+2. Label the issue appropriately (e.g., `enhancement`, `discussion`).
+3. Provide detailed information to support your suggestions.
+
+## Roadmap
+The roadmap will be updated as the project evolves. Keep an eye on the 'Projects' tab for the latest developments.
+
+## License
+`RHO-BOT` will be released under the MIT License. The LICENSE file will be added once the first code commit is made.
+
+## Acknowledgments
+A shoutout to the Rhodes College community for the inspiration to start this project.
+
+## Questions and Contact
+For queries about the project, please open an issue or contact the project maintainer at [email].
+
+---
+
+> Note: This README is a living document and will be updated regularly to reflect the progress of the `RHO-BOT` project.
+
 

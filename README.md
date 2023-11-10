@@ -1,4 +1,3 @@
-
 - # RHO-BOT: Rhodes College Personalized Chatbot
 
 ## Introduction
@@ -33,14 +32,11 @@ To contribute to these discussions:
 ## Roadmap
 The roadmap will be updated as the project evolves. Keep an eye on the 'Projects' tab for the latest developments.
 
-## License
-`RHO-BOT` will be released under the MIT License. The LICENSE file will be added once the first code commit is made.
-
 ## Acknowledgments
 A shoutout to the Rhodes College community for the inspiration to start this project.
 
 ## Questions and Contact
-For queries about the project, please open an issue or contact the project maintainer at [email].
+For queries about the project, please open an issue or contact the project maintainer at [mohma-24@rhodes.edu].
 
 ---
 

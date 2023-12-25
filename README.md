@@ -1,4 +1,4 @@
-- # RHO-BOT: Rhodes College Personalized Chatbot
+# RHO-BOT: Rhodes College Personalized Chatbot
 
 ## Introduction
 `RHO-BOT` is an under-development chatbot aimed at enriching the Rhodes College community's experience through seamless and personalized digital interactions. This AI-driven assistant will cater to a wide array of informational needs, providing support and guidance specific to Rhodes College.

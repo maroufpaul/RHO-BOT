@@ -5,10 +5,10 @@
 
 ## Project Status
 **Current Phase:** Planning and Design
-- [ x] Research and requirements gathering
-- [ x] System design
-- [ x] Implementation
-- [x ] Testing
+- [x] Research and requirements gathering
+- [x] System design
+- [x] Implementation
+- [x] Testing
 - [ ] Deployment
 - [ ] Maintenance
 
